@@ -61,7 +61,7 @@
 - [🔴Live: Portland Oregon Protest 8/11/2020 (Live) (Day 76)](https://www.youtube.com/watch?v=Irx3jchQHd0)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA)
 
 ---
 
@@ -75,7 +75,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://GameChampCrafted.github.io)
 
 ---
 
