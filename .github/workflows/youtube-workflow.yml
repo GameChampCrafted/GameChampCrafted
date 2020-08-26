@@ -15,5 +15,5 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           max_post_count: 28
-          template: "[![views](https://img.shields.io/youtube/views/vUmy3dIjang?style=social)]($url)"
+          tag_post_pre_newline: "[![views](https://img.shields.io/youtube/views/vUmy3dIjang?style=social)]($url)"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCoW5Tj5FPCneUmwfmbAgmRA"
