@@ -81,8 +81,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+### ⚡ Recent Github Activity
   
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#43](https://github.com//MrPotatoBobx/FetchCord/issues/43) in [MrPotatoBobx/FetchCord](https://github.com//MrPotatoBobx/FetchCord)
@@ -92,14 +91,10 @@
 5. ❗️ Opened issue [#1937](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/1937) in [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 <!--END_SECTION:activity-->
 
-</details>
+### ⚡ Github Stats
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gamechampcrafted&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gamechampcrafted&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://GameChampCrafted.github.io
 [youtube]: https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA
