@@ -1,6 +1,6 @@
 ### Hi there, I'm [GameChampCrafted][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=gamechampcrafted.github.io&style=for-the-badge&url=https%3A%2F%2Fgamechampcrafted.github.io)](https://gamechampcrafted.github.io)
 [![Github Follow](https://img.shields.io/github/followers/gamechampcrafted?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/GameChampCrafted)
 
 ## I'm a Student, Developer!
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gamechampcrafted.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Livestreams | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
@@ -93,5 +93,5 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://GameChampCrafted.github.io
 [youtube]: https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA
