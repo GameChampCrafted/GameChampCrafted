@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=gamechampcrafted.github.io&style=for-the-badge&url=https%3A%2F%2Fgamechampcrafted.github.io)](https://gamechampcrafted.github.io)
 [![Github Follow](https://img.shields.io/github/followers/gamechampcrafted?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/GameChampCrafted)
+[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA?sub_confirmation=1)
 
 ## I'm a Student, Developer!
 
