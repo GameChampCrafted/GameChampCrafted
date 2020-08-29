@@ -45,8 +45,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴Live: Portland Oregon, Kenosha, Protest 8/28/2020 (Live) (Day 93)](https://www.youtube.com/watch?v=CTDtkVcyQDo)
 - [🔴Live: Portland Oregon, Kenosha, Protest 8/28/2020 (Live) (Day 93) Day Stream!](https://www.youtube.com/watch?v=pMsFHpoORxw)
+- [🔴Live: Portland Oregon, Kenosha, Protest 8/28/2020 (Live) (Day 93)](https://www.youtube.com/watch?v=CTDtkVcyQDo)
 - [🔴Live: Portland Oregon, Kenosha, Protest 8/27/2020 (Live) (Day 92)](https://www.youtube.com/watch?v=-p4wx5ph5TE)
 - [🔴Live: Portland Oregon, Kenosha, Protest 8/27/2020 (Live) (Day 92)](https://www.youtube.com/watch?v=4U7EeNEq4yQ)
 - [🔴Live: Portland Oregon, Kenosha, Protest 8/26/2020 (Live) (Day 91)](https://www.youtube.com/watch?v=8L4HNooKE7U)
