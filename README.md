@@ -45,6 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴Live: LOS Angeles, Portland Oregon, Kenosha Protest 9/1/2020 (Live) (Day 97) DEATH IN PORTLAND](https://www.youtube.com/watch?v=8fPCdXsSIDE)
 - [🔴Live: LOS Angeles, Portland Oregon, Kenosha Protest 8/31/2020 (Live) (Day 96) DEATH IN PORTLAND](https://www.youtube.com/watch?v=lJaHr2g2R6Y)
 - [🔴Live: Washington DC, Portland Oregon, Kenosha Protest 8/30/2020 (Live) (Day 95) DEATH IN PORTLAND](https://www.youtube.com/watch?v=tKnunnPONpE)
 - [🔴Live: Washington DC, Portland Oregon, Kenosha Protest 8/29/2020 (Live) (Day 94)](https://www.youtube.com/watch?v=9e7FQqHQ97I)
@@ -59,7 +60,6 @@
 - [🔴Live: Portland Oregon Protest 8/22/2020 (Live) (Day 87)](https://www.youtube.com/watch?v=_V0iOyY6gCQ)
 - [🔴Live: Portland Oregon Protest 8/21/2020 (Live) (Day 86)](https://www.youtube.com/watch?v=cDNevZ2m-Ug)
 - [🔴Live: Portland Oregon Protest 8/20/2020 (Live) (Day 85)](https://www.youtube.com/watch?v=NlooiEx946I)
-- [🔴Live: Portland Oregon Protest 8/19/2020 (Live) (Day 84)](https://www.youtube.com/watch?v=1WWF0JdhE2M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA)
