@@ -59,6 +59,7 @@
 - [🔴Live: Portland Oregon Protest 8/24/2020 (Live) (Day 89)](https://www.youtube.com/watch?v=vUmy3dIjang)
 - [🔴Live: Portland Oregon Protest 8/23/2020 (Live) (Day 88)](https://www.youtube.com/watch?v=8o5V1j47nfY)
 - [🔴Live: Portland Oregon Protest 8/22/2020 (Live) (Day 87)](https://www.youtube.com/watch?v=_V0iOyY6gCQ)
+- [🔴Live: Portland Oregon Protest 8/21/2020 (Live) (Day 86)](https://www.youtube.com/watch?v=cDNevZ2m-Ug)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA)
