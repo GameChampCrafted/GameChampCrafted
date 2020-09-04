@@ -59,7 +59,6 @@
 - [🔴Live: Portland Oregon, Kenosha, Protest 8/26/2020 (Live) (Day 91)](https://www.youtube.com/watch?v=8L4HNooKE7U)
 - [🔴Live: Portland Oregon Protest 8/25/2020 (Live) (Day 90)](https://www.youtube.com/watch?v=XFLq8ZSgkYM)
 - [🔴Live: Portland Oregon Protest 8/24/2020 (Live) (Day 89)](https://www.youtube.com/watch?v=vUmy3dIjang)
-- [🔴Live: Portland Oregon Protest 8/23/2020 (Live) (Day 88)](https://www.youtube.com/watch?v=8o5V1j47nfY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA)
