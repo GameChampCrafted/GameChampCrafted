@@ -47,6 +47,7 @@
 <!-- YOUTUBE:START -->
 - [🔴Live: LOS Angeles, Portland Oregon, Kenosha Protest 9/9/2020 (Live) (Day 105)](https://www.youtube.com/watch?v=JiViFEh-Alk)
 - [🔴Live: LOS Angeles, Portland Oregon, Kenosha Protest 9/8/2020 (Live) (Day 104)](https://www.youtube.com/watch?v=2suuZbmOxAQ)
+- [🔴Live: LOS Angeles, Portland Oregon, Kenosha Protest 9/7/2020 (Live) (Day 103)](https://www.youtube.com/watch?v=f8dehAXwRzY)
 - [🔴Live: LOS Angeles, Portland Oregon, Kenosha Protest 9/6/2020 (Live) (Day 102)](https://www.youtube.com/watch?v=uTrLmurzHhw)
 - [🔴Live: LOS Angeles, Portland Oregon, Kenosha Protest 9/4/2020 (Live) (Day 100)](https://www.youtube.com/watch?v=FIpcQQC6jaU)
 - [🔴Live: LOS Angeles, Portland Oregon, Kenosha Protest 9/5/2020 (Live) (Day 101)](https://www.youtube.com/watch?v=M_uwwmak7N4)
