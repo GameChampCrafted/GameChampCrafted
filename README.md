@@ -45,6 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴Live: LOS Angeles, Portland Oregon, Rochester Protest 10/3/2020 (Live) (Day 129)](https://www.youtube.com/watch?v=wlhNAxMMvWE)
 - [🔴Live: LOS Angeles, Portland Oregon, Rochester Protest 10/2/2020 (Live) (Day 128)](https://www.youtube.com/watch?v=UIVwBz8byiQ)
 - [🔴Live: LOS Angeles, Portland Oregon, Rochester Protest 10/1/2020 (Live) (Day 127)](https://www.youtube.com/watch?v=Ga_bbaR-Vpo)
 - [🔴Live: LOS Angeles, Portland Oregon, Rochester Protest 9/30/2020 (Live) (Day 126)](https://www.youtube.com/watch?v=ncbU8y_9Wf4)
@@ -59,7 +60,6 @@
 - [🔴Live: LOS Angeles, Portland Oregon, Rochester Protest 9/19/2020 (Live) (Day 115)](https://www.youtube.com/watch?v=gyCQF5I43jc)
 - [🔴Live: LOS Angeles, Portland Oregon, Rochester Protest 9/18/2020 (Live) (Day 114)](https://www.youtube.com/watch?v=P6KT0qjNTqY)
 - [🔴Live: LOS Angeles, Portland Oregon, Rochester Protest 9/17/2020 (Live) (Day 113)](https://www.youtube.com/watch?v=8DvHXHKWDpc)
-- [🔴Live: LOS Angeles, Portland Oregon, Rochester Protest 9/16/2020 (Live) (Day 112)](https://www.youtube.com/watch?v=RLkTyLgidA8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA)
