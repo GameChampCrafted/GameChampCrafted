@@ -67,10 +67,10 @@
 ### ⚡ Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3512](https://github.com/ocornut/imgui/issues/3512) in [ocornut/imgui](https://github.com/ocornut/imgui)
-2. ❗️ Opened issue [#3512](https://github.com/ocornut/imgui/issues/3512) in [ocornut/imgui](https://github.com/ocornut/imgui)
-3. ❗️ Opened issue [#43](https://github.com/MrPotatoBobx/FetchCord/issues/43) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
-4. 🗣 Commented on [#1937](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/1937) in [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+1. ❗️ Opened issue [#21](https://github.com/Rebzzel/kiero/issues/21) in [Rebzzel/kiero](https://github.com/Rebzzel/kiero)
+2. 🗣 Commented on [#3512](https://github.com/ocornut/imgui/issues/3512) in [ocornut/imgui](https://github.com/ocornut/imgui)
+3. ❗️ Opened issue [#3512](https://github.com/ocornut/imgui/issues/3512) in [ocornut/imgui](https://github.com/ocornut/imgui)
+4. ❗️ Opened issue [#43](https://github.com/MrPotatoBobx/FetchCord/issues/43) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 5. ❗️ Opened issue [#1937](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/1937) in [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 <!--END_SECTION:activity-->
 
